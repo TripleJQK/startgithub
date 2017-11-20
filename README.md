@@ -1,2 +1,3 @@
 # startgithub
-For familar with gitbu
+For familar with github
+# correct some typo
